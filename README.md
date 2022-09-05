@@ -1,1 +1,1 @@
-Setting bit local on my machine
+uname it display system informatin
